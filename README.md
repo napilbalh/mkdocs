@@ -26,7 +26,6 @@ user guide.
 ## Support
 
 If you need help with MkDocs, do not hesitate to get in contact with us!
-
 -   For questions and high-level discussions, use **[Discussions]** on GitHub.
     -   For small questions, a good alternative is the **[Chat room]** on
         Gitter/Matrix.
